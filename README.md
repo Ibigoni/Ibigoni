@@ -77,6 +77,6 @@ Interactive visualizations for sorting algorithms and data structures
 
 ## 🔗 Links
 
-- 🌐 Portfolio: (add link)
-- 💼 LinkedIn: (add link)
-- 📫 Contact: (optional)
+- 🌐 Portfolio: Ibigoni.dev
+- 💼 LinkedIn: https://www.linkedin.com/in/ibigoni-inye-tam-5376b2204/
+- 📫 Contact: inyetamibigoni@gmail.com
