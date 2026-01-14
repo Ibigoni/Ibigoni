@@ -1,57 +1,65 @@
-<h1 align="center">Hi, I'm Ibigoni 👋</h1>
+<h1 align="center">Ibigoni Inye-Tam</h1>
 
 <p align="center">
-  Full-Stack Developer • Computer Science Student • Software Engineer
+  Full-Stack Engineer • Software Engineer • Web Developer
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer;React+%7C+Next.js+%7C+AWS;Clean+UI+%7C+Scalable+Logic;Algorithms+%26+Problem+Solving&center=true&width=520&height=45&color=3b82f6" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Engineer;React+%7C+Next.js+%7C+Node.js;Scalable+Systems+%7C+Clean+UI;Production-Ready+Web+Apps&center=true&width=540&height=45&color=3b82f6" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Profile
 
-- 🎓 Computer Science major with an IT minor  
-- 🧠 Strong foundation in algorithms, data structures, and problem solving  
-- 💻 Build modern full-stack applications with clean UI and scalable logic  
-- 🚀 Interested in frontend & full-stack software engineering roles  
+Full-stack engineer focused on building **production-ready web applications** with a strong balance between **clean frontend architecture** and **reliable backend systems**.  
+Experienced in designing scalable interfaces, managing application state, and integrating backend services.
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages
-![Java](https://img.shields.io/badge/Java-0A1A2F?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0A1A2F?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-0A1A2F?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-0A1A2F?style=for-the-badge&logo=cplusplus)
+## 🧰 Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-0A1A2F?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-0A1A2F?style=for-the-badge&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/Tailwind-0A1A2F?style=for-the-badge&logo=tailwindcss)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A1A2F?style=for-the-badge&logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0A1A2F?style=for-the-badge&logo=tailwindcss)
 
-### Backend & Tools
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-0A1A2F?style=for-the-badge&logo=node.js)
 ![AWS](https://img.shields.io/badge/AWS-0A1A2F?style=for-the-badge&logo=amazonaws)
+![SQL](https://img.shields.io/badge/SQL-0A1A2F?style=for-the-badge&logo=postgresql)
+
+### Tooling
 ![Git](https://img.shields.io/badge/Git-0A1A2F?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-0A1A2F?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-0A1A2F?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 Engineering Focus
+
+- Full-stack application architecture  
+- API integration & data flow  
+- Component-driven frontend systems  
+- Performance optimization & scalability  
+- Clean, maintainable codebases  
+
+---
+
+## 🚀 Selected Projects
 
 ### 🖥️ Windows OS Portfolio
-OS-inspired personal portfolio with draggable windows and app-style UI  
-**Tech:** Next.js, React, Tailwind CSS  
+OS-inspired portfolio experience with draggable windows and app-style UI  
+**Stack:** Next.js, React, Tailwind CSS  
 
 ### 🏥 LevelUp Meds
-Full-stack healthcare web app for managing medications per recipient  
-**Tech:** React, Next.js, AWS Amplify, DynamoDB  
+Full-stack healthcare web application for managing medications per recipient  
+**Stack:** React, Next.js, AWS Amplify, DynamoDB  
 
 ### 📊 Algorithm Visualizer
 Interactive visualizations for sorting algorithms and data structures  
-**Tech:** JavaScript, React  
+**Stack:** React, JavaScript  
 
 ---
 
@@ -67,8 +75,8 @@ Interactive visualizations for sorting algorithms and data structures
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 Links
 
-- 🌐 Portfolio: (add when ready)
-- 💼 LinkedIn: (add your link)
-- 📫 Email: (optional)
+- 🌐 Portfolio: (add link)
+- 💼 LinkedIn: (add link)
+- 📫 Contact: (optional)
