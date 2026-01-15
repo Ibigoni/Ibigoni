@@ -66,18 +66,9 @@ Interactive visualizations for sorting algorithms and data structures
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Ibigoni&show_icons=true&theme=tokyonight&hide_rank=true" 
-    alt="GitHub Stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ibigoni&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibigoni&layout=compact&theme=tokyonight" 
-    alt="Top Languages"
-  />
-</p>
 
 
 
