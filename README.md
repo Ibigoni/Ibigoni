@@ -4,78 +4,64 @@
   Full-Stack Engineer • Software Engineer • Web Developer
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Engineer;React+%7C+Next.js+%7C+Node.js;Scalable+Systems+%7C+Clean+UI;Production-Ready+Web+Apps&center=true&width=540&height=45&color=3b82f6" />
-</p>
+---
+
+## Profile
+
+Full-stack engineer focused on building **reliable, maintainable web applications** with a balance between clean frontend implementation and practical backend integration.  
+Comfortable working across the stack to deliver user-focused, production-ready features.
 
 ---
 
-## 👨‍💻 Profile
-
-Full-stack engineer focused on building **production-ready web applications** with a strong balance between **clean frontend architecture** and **reliable backend systems**.  
-Experienced in designing scalable interfaces, managing application state, and integrating backend services.
-
----
-
-## 🧰 Tech Stack
+## Tech Stack
 
 ### Frontend
-![React](https://img.shields.io/badge/React-0A1A2F?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-0A1A2F?style=for-the-badge&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-0A1A2F?style=for-the-badge&logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0A1A2F?style=for-the-badge&logo=tailwindcss)
+- React  
+- Next.js  
+- TypeScript  
+- Tailwind CSS  
+- HTML5 / CSS3  
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-0A1A2F?style=for-the-badge&logo=node.js)
-![AWS](https://img.shields.io/badge/AWS-0A1A2F?style=for-the-badge&logo=amazonaws)
-![SQL](https://img.shields.io/badge/SQL-0A1A2F?style=for-the-badge&logo=postgresql)
+- Node.js  
+- AWS (Amplify, DynamoDB)  
+- SQL  
 
 ### Tooling
-![Git](https://img.shields.io/badge/Git-0A1A2F?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-0A1A2F?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-0A1A2F?style=for-the-badge&logo=visualstudiocode)
+- Git  
+- GitHub  
+- VS Code  
 
 ---
 
-## 🧠 Engineering Focus
+## Engineering Focus
 
 - Full-stack application architecture  
 - API integration & data flow  
-- Component-driven frontend systems  
-- Performance optimization & scalability  
+- Component-driven UI development  
+- Performance and scalability considerations  
 - Clean, maintainable codebases  
 
 ---
 
-## 🚀 Selected Projects
+## Selected Projects
 
-### 🖥️ Windows OS Portfolio
+### Windows OS Portfolio
 OS-inspired portfolio experience with draggable windows and app-style UI  
 **Stack:** Next.js, React, Tailwind CSS  
 
-### 🏥 LevelUp Meds
+### LevelUp Meds
 Full-stack healthcare web application for managing medications per recipient  
 **Stack:** React, Next.js, AWS Amplify, DynamoDB  
 
-### 📊 Algorithm Visualizer
+### Algorithm Visualizer
 Interactive visualizations for sorting algorithms and data structures  
 **Stack:** React, JavaScript  
 
 ---
 
-## 📈 GitHub Activity
+## Links
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ibigoni&show_icons=true&theme=tokyonight&cache_seconds=86400" />
-</p>
-
-
-
-
----
-
-## 🔗 Links
-
-- 🌐 Portfolio: https://ibigoni.dev/
-- 💼 LinkedIn: https://www.linkedin.com/in/ibigoni-inye-tam-5376b2204/
-- 📫 Contact: inyetamibigoni@gmail.com
+- Portfolio: https://ibigoni.dev  
+- LinkedIn: https://www.linkedin.com/in/ibigoni-inye-tam-5376b2204/  
+- Contact: inyetamibigoni@gmail.com
