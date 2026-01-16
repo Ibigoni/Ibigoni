@@ -5,9 +5,6 @@
   />
 </p>
 
-<p align="center">
-  Full-Stack Engineer | React | Next.js
-</p>
 
 ## 👋 About
 
