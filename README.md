@@ -1,9 +1,15 @@
 <h1>Ibigoni Inye-Tam</h1>
 
 <p>
-Full-Stack Engineer | React | Next.js
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=3B82F6&width=520&lines=console.log(%22Ibigoni+Inye-Tam%22)%3B;printf(%22Ibigoni+Inye-Tam%5Cn%22)%3B;System.out.println(%22Ibigoni+Inye-Tam%22)%3B;print(%22Ibigoni+Inye-Tam%22)"
+    alt="Typing animation of code printing my name"
+  />
 </p>
 
+<p>
+Full-Stack Engineer | React | Next.js
+</p>
 
 ## 👋 About
 
