@@ -22,7 +22,7 @@ Comfortable working across the stack to deliver user-focused, production-ready f
 
 
 ### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,aws,postgres,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,aws" />
 
 - API integration & data flow  
 - Serverless & cloud-based backends  
