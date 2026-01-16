@@ -4,21 +4,18 @@
 Full-Stack Engineer | React | Next.js
 </p>
 
----
 
 ## 👋 About
 
 Full-stack engineer building modern web applications with a focus on clean UI, scalable architecture, and practical backend integration.  
 Comfortable working across the stack to deliver user-focused, production-ready features.
 
----
 
 ## 🛠️ Skills & Tools
 
 ### 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
 
----
 
 ### ⚙️ Backend
 <img src="https://skillicons.dev/icons?i=nodejs,aws,postgres,mongodb" />
@@ -26,7 +23,6 @@ Comfortable working across the stack to deliver user-focused, production-ready f
 - API integration & data flow  
 - Serverless & cloud-based backends  
 
----
 
 ### 🧠 Engineering
 - Component-driven architecture  
@@ -34,7 +30,6 @@ Comfortable working across the stack to deliver user-focused, production-ready f
 - Performance optimization & scalability  
 - Clean, maintainable codebases  
 
----
 
 ### 🧰 Tooling
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
