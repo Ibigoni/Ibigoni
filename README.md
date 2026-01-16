@@ -39,27 +39,6 @@ Comfortable working across the stack to deliver user-focused, production-ready f
 ### 🧰 Tooling
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
 
----
-
-## 🚀 Projects
-
-### 🖥️ Windows OS Portfolio
-OS-inspired portfolio experience with draggable windows and app-style UI.  
-**Stack:** Next.js, React, Tailwind CSS
-
----
-
-### 🏥 LevelUp Meds
-Full-stack healthcare web application for managing medications per recipient.  
-**Stack:** React, Next.js, AWS Amplify, DynamoDB
-
----
-
-### 📊 Algorithm Visualizer
-Interactive visualizations for sorting algorithms and data structures.  
-**Stack:** React, JavaScript
-
----
 
 ## 🔗 Links
 
