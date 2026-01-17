@@ -38,6 +38,6 @@ Comfortable working across the stack to deliver user-focused, production-ready f
 
 ## 🔗 Links
 
-- 🌐 Portfolio: https://ibigoni.dev  
+- 🌐 Portfolio: coming soon  
 - 💼 LinkedIn: https://www.linkedin.com/in/ibigoni-inye-tam-5376b2204/  
 - 📫 Email: inyetamibigoni@gmail.com
