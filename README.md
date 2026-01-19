@@ -5,39 +5,42 @@
   />
 </p>
 
-
 ## 👋 About
 
-Full-stack engineer building modern web applications with a focus on clean UI, scalable architecture, and practical backend integration.  
-Comfortable working across the stack to deliver user-focused, production-ready features.
+Full-stack **software engineer** building production-ready applications with an emphasis on clean architecture, scalable systems, and practical backend integration.  
+Comfortable working across the stack — from UI and APIs to data flow, automation, and deployment — to deliver maintainable, user-focused solutions.
 
+---
 
 ## 🛠️ Skills & Tools
+
+### ⚙️ Backend & Systems
+<img src="https://skillicons.dev/icons?i=nodejs,python,java,aws,postgres" />
+
+- RESTful API design & backend logic  
+- Data modeling and server-side validation  
+- Cloud-deployed and serverless services  
+- CLI tools and developer utilities  
 
 ### 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
 
+- Component-driven UI development  
+- Client-side state management  
+- Responsive and accessible interfaces  
 
-### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,aws" />
-
-- API integration & data flow  
-- Serverless & cloud-based backends  
-
-
-### 🧠 Engineering
-- Component-driven architecture  
-- State management & client-side data flow  
-- Performance optimization & scalability  
+### 🧠 Engineering Practices
+- Object-oriented design (OOP)  
 - Clean, maintainable codebases  
-
+- Performance and scalability considerations  
 
 ### 🧰 Tooling
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
 
+---
 
 ## 🔗 Links
 
-- 🌐 Portfolio: coming soon  
+- 🌐 Portfolio: *Coming soon*  
 - 💼 LinkedIn: https://www.linkedin.com/in/ibigoni-inye-tam-5376b2204/  
 - 📫 Email: inyetamibigoni@gmail.com
