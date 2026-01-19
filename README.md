@@ -7,8 +7,8 @@
 
 ## 👋 About
 
-Full-stack **software engineer** building production-ready applications with an emphasis on clean architecture, scalable systems, and practical backend integration.  
-Comfortable working across the stack — from UI and APIs to data flow, automation, and deployment — to deliver maintainable, user-focused solutions.
+Full-stack software engineer building production-ready applications with an emphasis on clean architecture, scalable systems, and practical backend integration.  
+Comfortable working across the stack from UI and APIs to data flow, automation, and deployment to deliver maintainable, user-focused solutions.
 
 ---
 
@@ -17,22 +17,23 @@ Comfortable working across the stack — from UI and APIs to data flow, automati
 ### ⚙️ Backend & Systems
 <img src="https://skillicons.dev/icons?i=nodejs,python,java,aws,postgres" />
 
-- RESTful API design & backend logic  
-- Data modeling and server-side validation  
-- Cloud-deployed and serverless services  
-- CLI tools and developer utilities  
+RESTful API design and backend logic  
+Data modeling and server-side validation  
+Cloud-deployed and serverless services  
+CLI tools and developer utilities  
 
 ### 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
 
-- Component-driven UI development  
-- Client-side state management  
-- Responsive and accessible interfaces  
+Component-driven UI development  
+Client-side state management  
+Responsive and accessible interfaces  
 
 ### 🧠 Engineering Practices
-- Object-oriented design (OOP)  
-- Clean, maintainable codebases  
-- Performance and scalability considerations  
+
+Object-oriented design  
+Clean, maintainable codebases  
+Performance and scalability considerations  
 
 ### 🧰 Tooling
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
@@ -41,6 +42,6 @@ Comfortable working across the stack — from UI and APIs to data flow, automati
 
 ## 🔗 Links
 
-- 🌐 Portfolio: *Coming soon*  
-- 💼 LinkedIn: https://www.linkedin.com/in/ibigoni-inye-tam-5376b2204/  
-- 📫 Email: inyetamibigoni@gmail.com
+🌐 Portfolio: Coming soon  
+💼 LinkedIn: https://www.linkedin.com/in/ibigoni-inye-tam-5376b2204/  
+📫 Email: inyetamibigoni@gmail.com
