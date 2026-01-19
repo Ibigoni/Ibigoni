@@ -9,6 +9,7 @@
 
 Full-stack software engineer building production-ready applications with an emphasis on clean architecture, scalable systems, and practical backend integration.  
 Comfortable working across the stack from UI and APIs to data flow, automation, and deployment to deliver maintainable, user-focused solutions.
+Currently open to software engineering, full-stack, and backend internship or entry-level opportunities.
 
 ## 🛠️ Skills & Tools
 
