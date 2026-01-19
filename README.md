@@ -14,7 +14,7 @@ Currently open to software engineering, full-stack, and backend internship or en
 ## 🛠️ Skills & Tools
 
 ### ⚙️ Backend & Systems
-<img src="https://skillicons.dev/icons?i=nodejs,python,java,aws,postgres" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,aws" />
 
 RESTful API design and backend logic  
 Data modeling and server-side validation  
@@ -22,7 +22,7 @@ Cloud-deployed and serverless services
 CLI tools and developer utilities  
 
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" />
 
 Component-driven UI development  
 Client-side state management  
@@ -35,7 +35,7 @@ Clean, maintainable codebases
 Performance and scalability considerations  
 
 ### 🧰 Tooling
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 
 
 ## 🔗 Links
