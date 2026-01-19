@@ -36,7 +36,6 @@ Performance and scalability considerations
 ### 🧰 Tooling
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
 
----
 
 ## 🔗 Links
 
