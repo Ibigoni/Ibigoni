@@ -40,6 +40,6 @@ Performance and scalability considerations
 
 ## 🔗 Links
 
-🌐 Portfolio: Coming soon  
+🌐 Portfolio: https://Ibigoni.dev  
 💼 LinkedIn: https://www.linkedin.com/in/ibigoni-inye-tam-5376b2204/  
 📫 Email: inyetamibigoni@gmail.com
