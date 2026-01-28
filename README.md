@@ -14,7 +14,7 @@ Currently open to software engineering, full-stack, and backend internship or en
 ## 🛠️ Skills & Tools
 
 ### ⚙️ Backend & Systems
-<img src="https://skillicons.dev/icons?i=nodejs,python,aws,java" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,aws" />
 
 RESTful API design and backend logic  
 Data modeling and server-side validation  
