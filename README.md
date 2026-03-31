@@ -80,7 +80,7 @@
 ┌─[ 🔐  SECURITY & SYSTEMS ]─────────────────────────────────────┐
 ```
 
-<img src="https://skillicons.dev/icons?i=kali,linux,bash" />
+<img src="https://skillicons.dev/icons?i=linux,bash" />
 
 ```
 │  Network fundamentals & protocol analysis                       │
@@ -98,7 +98,7 @@
 ┌─[ 🧰  TOOLING ]────────────────────────────────────────────────┐
 ```
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 
 ```
 └─────────────────────────────────────────────────────────────────┘
@@ -128,13 +128,13 @@
 ```
 
 <p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=22C55E&icon_color=22C55E" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=Ibigoni&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=22C55E&icon_color=22C55E" />
   &nbsp;
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=22C55E" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibigoni&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=22C55E" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" />
+  <img src="https://streak-stats.demolab.com?user=Ibigoni&theme=github-dark-blue&hide_border=true&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" />
 </p>
 
 ```
@@ -146,7 +146,7 @@
 <!-- ── FOOTER ──────────────────────────────────────────────────── -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=22C55E&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=Ibigoni&style=flat-square&color=22C55E&label=PROFILE+VIEWS" />
 </p>
 
 <p align="center">
